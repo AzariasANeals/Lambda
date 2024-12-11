@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=LambdaDemo
+comment0.text=\r\n\ This\ is\ my\ LambdaDemo.\ Run\ it\ to\ see\ how\ we\ use\ Lambda\ expressions\r\n\ in\ various\ demo\ programs,\ and\ how\ we\ use\ the\ functional\ interfaces\ to\ enhance\ our\r\n\ program.\r\n
+comment1.params=
+comment1.target=void\ runDemo()
+comment2.params=a\ b\ op
+comment2.target=int\ useMath(int,\ int,\ MathOperation)
+comment3.params=s1\ s2\ op
+comment3.target=java.lang.String\ useStringOp(java.lang.String,\ java.lang.String,\ StringOperation)
+comment4.params=x\ y
+comment4.target=int\ demoAddOperation(int,\ int)
+comment5.params=x\ y
+comment5.target=int\ demoSubOperation(int,\ int)
+comment6.params=x\ y
+comment6.target=int\ demoMultiplicationOperation(int,\ int)
+comment7.params=x\ y
+comment7.target=int\ demoDivisionOperation(int,\ int)
+numComments=8
